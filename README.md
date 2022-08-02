@@ -1,10 +1,8 @@
 # List of Islamic Projects
-Please visit
-- [fawazahmed0.github.io/islamic-project](https://fawazahmed0.github.io/islamic-project)
+**Link:** [fawazahmed0.github.io/islamic-project](https://fawazahmed0.github.io/islamic-project) <br> <br>
 
-or
 
-- [islamic-project.pages.dev](https://islamic-project.pages.dev)<br> 
+**Mirror Link:** [islamic-project.pages.dev](https://islamic-project.pages.dev)<br> 
 
 <br>
 <br>
